@@ -29,7 +29,7 @@ Heroku 提供免费账号，具体限制如下：
 
 #### 2.Fork本项目
 1. Fork 本项目到个人账号下
-![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/4-min.png)
+![](https://github.com/Q-W-Q/shadowsocks-heroku/blob/master/img/4-min.png)
 
 2. Clone 本项目：`git clone https://github.com/521xueweihan/shadowsocks-heroku.git`
 
