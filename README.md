@@ -31,7 +31,7 @@ Heroku 提供免费账号，具体限制如下：
 1. Fork 本项目到个人账号下
 ![](https://github.com/Q-W-Q/shadowsocks-heroku/blob/master/img/4-min.png)
 
-2. Clone 本项目：`git clone https://github.com/521xueweihan/shadowsocks-heroku.git`
+2. Clone 本项目：`git clone https://github.com/Q-W-Q/shadowsocks-heroku.git`
 
 ### 二、部署
 heroku 在创建项目的时候可以，通过关联 GitHub 账号，直接部署 GitHub 账号下的项目。具体步骤如下：
